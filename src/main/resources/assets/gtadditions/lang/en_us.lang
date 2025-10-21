@@ -3123,7 +3123,7 @@ gtadditions.multiblock.battery_tower.passive_drain=Passive EU loss per tick: %s
 
 gtadditions.multiblock.blast_furnace.additional_temperature=Additional Temperature: %dK
 
-gtadditions.multiblock.mega_logic.tooltip.1=Max Parallel: §e512
+gtadditions.multiblock.mega_logic.tooltip.1=Max Parallel: §e6144
 gtadditions.multiblock.mega_logic.tooltip.2=EU/t Usage: §eParallel Amount * Recipe EU/t * 0.5
 gtadditions.multiblock.mega_logic.tooltip.3=Duration Multiplier: §e%d
 
